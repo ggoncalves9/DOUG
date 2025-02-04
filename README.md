@@ -4,7 +4,7 @@
 <contexto> O programa JournalCTL é um jornal com informações sobre Tenologia, mas precisamente voltado ao campo de DevOps (Cloud,Pipelines CICD,Docker & Kubernetes, Observabilidade, Codigo Source e filosofia DevOps e Agil).
 
 <objetivo> Trazer noticias atuais, toda semana, de sites confiaveis sobre o tema DevOps e todo ecosistema.
-
+- data: 
 
  <atividade a ser executada> 
 - Fazer um organização das noticias mais importantes e Destacar uma como a Noticia Ancora.
