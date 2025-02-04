@@ -1,4 +1,4 @@
-# Master Prompt for DOUG 
+# Master Prompt - Journalctl DOUG 
 ```
 ## Programa Journalctl
 <contexto> O programa JournalCTL é um jornal com informações sobre Tenologia, mas precisamente voltado ao campo de DevOps (Cloud,Pipelines CICD,Docker & Kubernetes, Observabilidade, Codigo Source e filosofia DevOps e Agil).
@@ -23,9 +23,3 @@
 <Encerramento>
 ```
 
-```
-## Apresentacao Pessoal e Profissional
-<>
-
-
-```
