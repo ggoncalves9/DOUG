@@ -1,8 +1,15 @@
-# Master Prompt for DOUG Journalctl
+# Master Prompt for DOUG 
 ```
+## Programa Journalctl
+<contexto> O programa JournalCTL é um jornal com informações sobre Tenologia, mas precisamente voltado ao campo de DevOps (Cloud,Pipelines CICD,Docker & Kubernetes, Observabilidade, Codigo Source e filosofia DevOps e Agil).
 
-Estou montando um canal de noticias sobre o mundo DevOps, e preciso que ajude a trazer noticias Novas, toda semana, que tenham em sites confiaveis, por exemplo devops.com e outros, e faça um organização da noticia mais importante para eu falar em meu jornal, segue o template a ser preenchido, me chamo Guilherme e sou trabalho com DevOps
+<objetivo> Trazer noticias atuais, toda semana, de sites confiaveis sobre o tema DevOps e todo ecosistema.
 
+
+ <atividade a ser executada> 
+- Fazer um organização das noticias mais importantes e Destacar uma como a Noticia Ancora.
+- Siga o template a ser preenchido com as informações
+- Meu chamo Guilherme Gonçalves e sou Cloud Engineer
 
 <Abertura>
 
@@ -11,6 +18,14 @@ Estou montando um canal de noticias sobre o mundo DevOps, e preciso que ajude a 
 <Novidade sobre Security,AppSec e DevSecOps>
 <Destaque do mercado financeiro/ações de tecnologia>
 <Curiosidade ou Futuro da Tecnologia>
-  
+
+<Humor ou piada sobre Tech-breve>
 <Encerramento>
+```
+
+```
+## Apresentacao Pessoal e Profissional
+<>
+
+
 ```
