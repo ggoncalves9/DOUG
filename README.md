@@ -13,7 +13,7 @@
 
 <Abertura>
 
-<Destaque Principal >
+<Destaque Principal>
 <Novidades Rápidas>
 <Novidade sobre Security,AppSec e DevSecOps>
 <Destaque do mercado financeiro/ações de tecnologia>
