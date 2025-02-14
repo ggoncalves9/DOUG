@@ -47,7 +47,7 @@ Além disso, para encontrar informações sobre vulnerabilidades (CVEs) e segura
 📝 Resumo da notícia em 3 a 5 frases
 🔗 Fonte
 
-🔹 <2 CVEs de Vulnerabilidade>
+🔹 <2 CVEs de Vulnerabilidade atuais e high/alta>
 🔹 CVE 1: [Código + Descrição + Fonte]
 🔹 CVE 2: [Código + Descrição + Fonte]
 
